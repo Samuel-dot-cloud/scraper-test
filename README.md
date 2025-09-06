@@ -2,4 +2,4 @@
 ## Setup
 ```bash
 uv sync
-uv run python scraper/main.py or python main.py
+uv run python main.py or python main.py
